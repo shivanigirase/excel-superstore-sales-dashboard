@@ -1,6 +1,6 @@
 # 📊 Interactive Superstore Sales Dashboard (Microsoft Excel)
 
-![Dashboard Preview](dashboard-full.png)
+![Dashboard Preview](Screenshot1.png)
 
 ## 📌 Project Overview
 
